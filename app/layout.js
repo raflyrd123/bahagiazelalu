@@ -13,3 +13,8 @@ export default function RootLayout({ children }) {
     </html>
   )
 }
+
+export const metadata = {
+  title: "Bahagiazelalu",
+  description: "Platform website agar azel bisa terus bahagia selalu",
+};
